@@ -1,4 +1,4 @@
-def char_count(str):
+def char_count(input):
   obj= {}
   res_arr=[]
   input_arr= list(input.replace(" ", "").lower())
